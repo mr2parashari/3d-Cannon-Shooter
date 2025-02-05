@@ -13,7 +13,7 @@ A **3D Cannon Shooter** game made in **Unity** 🎮. The player can move the bar
 
 ## 🛠️ Tech Stack  
 - **Engine:** Unity (C#)  
-- **Input System:** Unity’s New Input System  
+- **Input System:** Unity’s Old Input System  
 - **Physics:** Rigidbody & Colliders  
 - **Obstacles:** Moving patterns (zigzag, rotating, teleporting)  
 
